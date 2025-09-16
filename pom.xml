@@ -63,6 +63,13 @@
                     <include>**/*.md</include>
                 </includes>
             </resource>
+            <resource>
+                <directory>nextjs</directory>
+                <targetPath>guidelines/nextjs</targetPath>
+                <includes>
+                    <include>**/*.md</include>
+                </includes>
+            </resource>
         </resources>
 
         <plugins>
